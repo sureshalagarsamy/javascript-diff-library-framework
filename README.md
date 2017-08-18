@@ -8,7 +8,7 @@ For example ```jQuery``` ```D3.js``` ```Google Charts```
 
 ### Framework
 
-A framework is a piece of code which dictates the architecture your project. Once you choose a framework to work with, ```you have to follow the framework's code and design methodologies```. 
+A framework is a piece of code which dictates the architecture to your project. Once you choose a framework to work with, ```you have to follow the framework's code and design methodologies```. 
 
 For example ```AngularJS``` ```ReactJS``` ```Ember.js```
 
