@@ -2,7 +2,7 @@
 
 ### Library
 
-A library is a reusable piece of code which you use as it comes.A library will usually focus on a single piece of functionality, which you access through an API. ```You call a library function, it executes some code and then control is returned to your code```.
+A library is a reusable piece of code which you use as it comes. A library will usually focus on a single piece of functionality, which you access through an API. ```You call a library function, it executes some code and then control is returned to your code```.
 
 For example ```jQuery``` ```D3.js``` ```Google Charts```
 
